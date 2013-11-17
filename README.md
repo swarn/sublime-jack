@@ -14,7 +14,7 @@ If you want to edit/improve the Jack package, this is how you should install itâ
 
 Clone this repository into your packages folder:
 
-    git clone git://github.com/... 'Jack'
+    git clone git://github.com/swarn/sublime-jack.git 'Jack'
 
 ## Features
 
